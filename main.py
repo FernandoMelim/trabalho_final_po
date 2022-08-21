@@ -73,8 +73,10 @@ f.write("Custo total minimizado: R$ " +
         str(model.ObjVal).replace('.', ',') + '\n')
 
 for i in range(0, len(vars)):
-    f.write(str(vars[i]).replace('<gurobi.Var ', '')
-            .replace(' (value ', ' - ').replace(')>', '')
+    f.write(str(vars[i])
+            .replace('<gurobi.Var ', '')
+            .replace(' (value ', ' - ')
+            .replace(')>', '')
             .replace('.', ',') + '\n')
 
 f.close()
