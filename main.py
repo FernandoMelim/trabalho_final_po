@@ -15,9 +15,24 @@ for i in lines:
 model = gurobipy.Model('doceria')
 
 # declarando variaveis
+types = []
+
+for i in endlist[-1].split(';'):
+    types.append(i)
+
 vars = []
-for i in endlist[0].split(';'):
-    vars.append(model.addVar(vtype=gurobipy.GRB.CONTINUOUS, name=i))
+variableNames = endlist[0].split(';')
+
+for i in range(0, len(variableNames)):
+    if (types[i] == 'C'):
+        vars.append(model.addVar(
+            vtype=gurobipy.GRB.CONTINUOUS, name=variableNames[i]))
+    elif (types[i] == 'B'):
+        vars.append(model.addVar(
+            vtype=gurobipy.GRB.BINARY, name=variableNames[i]))
+    elif (types[i] == 'I'):
+        vars.append(model.addVar(
+            vtype=gurobipy.GRB.INTEGER, name=variableNames[i]))
 
 # model.update()
 
@@ -35,7 +50,7 @@ model.setObjective(expression, gurobipy.GRB.MINIMIZE)
 
 # montando restrições
 k = 1
-for i in range(2, len(endlist)):
+for i in range(2, len(endlist) - 1):
 
     consts = []
     endlistSplited = endlist[i].split(';')
