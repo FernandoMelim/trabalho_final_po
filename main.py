@@ -64,8 +64,6 @@ for i in range(2, len(endlist)):
 # otimizando
 model.optimize()
 
-results = model.getAttr('X')
-
 # escrevendo resultado em arquivo
 f = open("output.txt", "w")
 
