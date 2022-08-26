@@ -14,7 +14,7 @@ for i in lines:
 # criando modelo
 model = gurobipy.Model('doceria')
 
-# declarando variaveis
+# declarando variaveis de acordo com seus tipos
 types = []
 
 for i in endlist[-1].split(';'):
@@ -33,8 +33,6 @@ for i in range(0, len(variableNames)):
     elif (types[i] == 'I'):
         vars.append(model.addVar(
             vtype=gurobipy.GRB.INTEGER, name=variableNames[i]))
-
-# model.update()
 
 # definindo custos
 costs = []

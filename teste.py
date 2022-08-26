@@ -13,11 +13,9 @@ m.setObjective(a, gp.GRB.MAXIMIZE)
 print("a ---------------------------------")
 print(a)
 
-b = x + 2*y + 3*z
-a = b <= 4
-m.addConstr(a, name="c0")
+m.addConstr(x + 2*y + 3*z <= 4, name="c0")
 m.addConstr(x + y >= 1, name="c1")
 
 m.optimize()
 
-
+m.printAttr('X')

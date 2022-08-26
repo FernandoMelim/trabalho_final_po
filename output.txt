@@ -1,11 +1,401 @@
-Custo total minimizado: R$ 284162,5
-X11 - 1125,0
-X12 - 4375,0
-X13 - 750,0
-X21 - 2200,0
-X22 - 0,0
-X23 - 1200,0
-e11 - 625,0
-e12 - 0,0
-e21 - 1200,0
+Custo total minimizado: R$ 4121,3512652383115
+Brownie 875g - 1,0
+Brigadeiro 3000g - 1,0
+Brigad, Ninho 3000g - 1,0
+Mousse de Ninho 700g - 1,0
+Pudim 1un - 4,0
+Cheesecake 1un - 5,0
+Veruca 1un - 3,0
+Bolo Baunilha - 1,0
+Bolo Matilde - 1,0
+Caramelo 400g - 1,0
+Caramelo Salgado 250g - 1,0
+Brigadeiro Branco 3000g - 1,0
+Ganache 400g - 1,0
+Brigadeiro Pa�oca 850g - 1,0
+Bolo de Cenoura - 1,0
+Banoffe Fatia - 9,0
+Quadrado Brownie 1un - 6,0
+Coxinha ao leite 1un - 6,0
+Coxinha Ninho 1un - 3,0
+Coxinha Amendoim e Nutella 1un - 3,0
+Coxinha Ninho e Nutela 1un - 4,0
+Cenourinha 1un - 3,0
+Chocolatinho 1un - 3,0
+Matilde 1un - 4,0
+Brownetto Sensacao 1un - 4,0
+Brownetto Sensacao Uva 1un - 1,0
+Vermelinho 1un - 4,0
+Brigadeiro Gourmet 1un - 3,0
+Docinho 1un - 8,0
+Bombom Morango 1un - 3,0
+Bombom de Uva 1un - 1,0
+Bombom Travessa 1un - 1,0
+Fatia Brownie 1un - 2,0
+Mousse Choco 1un - 2,0
+Mousse Maracuja 1un - 1,0
+Mousse Limao 1un - 1,0
+Browninho 1un - 2,0
+Browniezao 1un - 1,0
+Caixa 4 Brigadeiros - 2,0
+Caixa bolinho e doces 1un - 1,0
+Caixa 8 docinhos - 2,0
+Brownetto 1un - 1,0
+Duetto 1un - 1,0
+Pe de mo�a 1un - 3,0
+B Red 1un - 1,0
+Bombom de Kinder 1un - 1,0
+Brownie Travessa 1un - 2,0
+Coracao de brownie 1un - 1,0
+Copo Churros 1un - 4,0
+Palha Italiana 1un - 4,0
+Brownie 875g - 1,0
+Brigadeiro 3000g - 1,0
+Brigad, Ninho 3000g - 1,0
+Mousse de Ninho 700g - 1,0
+Pudim 1un - 4,0
+Cheesecake 1un - 5,0
+Veruca 1un - 3,0
+Bolo Baunilha - 2,0
+Bolo Matilde - 1,0
+Caramelo 400g - 1,0
+Caramelo Salgado 250g - 1,0
+Brigadeiro Branco 3000g - 1,0
+Ganache 400g - 1,0
+Brigadeiro Pa�oca 850g - 1,0
+Bolo de Cenoura - 2,0
+Banoffe Fatia - 9,0
+Quadrado Brownie 1un - 6,0
+Coxinha ao leite 1un - 6,0
+Coxinha Ninho 1un - 3,0
+Coxinha Amendoim e Nutella 1un - 1,0
+Coxinha Ninho e Nutela 1un - 4,0
+Cenourinha 1un - 3,0
+Chocolatinho 1un - 3,0
+Matilde 1un - 4,0
+Brownetto Sensacao 1un - 4,0
+Brownetto Sensacao Uva 1un - 2,0
+Vermelinho 1un - 4,0
+Brigadeiro Gourmet 1un - 3,0
+Docinho 1un - 8,0
+Bombom Morango 1un - 3,0
+Bombom de Uva 1un - 1,0
+Bombom Travessa 1un - 1,0
+Fatia Brownie 1un - 2,0
+Mousse Choco 1un - 2,0
+Mousse Maracuja 1un - 2,0
+Mousse Limao 1un - 1,0
+Browninho 1un - 2,0
+Browniezao 1un - 2,0
+Caixa 4 Brigadeiros - 2,0
+Caixa bolinho e doces 1un - 2,0
+Caixa 8 docinhos - 0,0
+Brownetto 1un - 1,0
+Duetto 1un - 1,0
+Pe de mo�a 1un - 3,0
+B Red 1un - 2,0
+Bombom de Kinder 1un - 1,0
+Brownie Travessa 1un - 0,0
+Coracao de brownie 1un - 2,0
+Copo Churros 1un - 4,0
+Palha Italiana 1un - 4,0
+Brownie 875g - 1,0
+Brigadeiro 3000g - 1,0
+Brigad, Ninho 3000g - 1,0
+Mousse de Ninho 700g - 1,0
+Pudim 1un - 4,0
+Cheesecake 1un - 5,0
+Veruca 1un - 3,0
+Bolo Baunilha - 0,0
+Bolo Matilde - 1,0
+Caramelo 400g - 1,0
+Caramelo Salgado 250g - 1,0
+Brigadeiro Branco 3000g - 1,0
+Ganache 400g - 1,0
+Brigadeiro Pa�oca 850g - 1,0
+Bolo de Cenoura - 0,0
+Banoffe Fatia - 9,0
+Quadrado Brownie 1un - 6,0
+Coxinha ao leite 1un - 6,0
+Coxinha Ninho 1un - 3,0
+Coxinha Amendoim e Nutella 1un - 2,0
+Coxinha Ninho e Nutela 1un - 4,0
+Cenourinha 1un - 3,0
+Chocolatinho 1un - 3,0
+Matilde 1un - 4,0
+Brownetto Sensacao 1un - 4,0
+Brownetto Sensacao Uva 1un - 0,0
+Vermelinho 1un - 4,0
+Brigadeiro Gourmet 1un - 3,0
+Docinho 1un - 8,0
+Bombom Morango 1un - 3,0
+Bombom de Uva 1un - 1,0
+Bombom Travessa 1un - 1,0
+Fatia Brownie 1un - 2,0
+Mousse Choco 1un - 2,0
+Mousse Maracuja 1un - 0,0
+Mousse Limao 1un - 1,0
+Browninho 1un - 2,0
+Browniezao 1un - 0,0
+Caixa 4 Brigadeiros - 2,0
+Caixa bolinho e doces 1un - 0,0
+Caixa 8 docinhos - 1,0
+Brownetto 1un - 1,0
+Duetto 1un - 1,0
+Pe de mo�a 1un - 3,0
+B Red 1un - 0,0
+Bombom de Kinder 1un - 1,0
+Brownie Travessa 1un - 1,0
+Coracao de brownie 1un - 0,0
+Copo Churros 1un - 4,0
+Palha Italiana 1un - 4,0
+h11 - 1,0
+h12 - 1,0
+h13 - 1,0
+h14 - 1,0
+h15 - 1,0
+h16 - 1,0
+h17 - 1,0
+h18 - 1,0
+h19 - 1,0
+h110 - 1,0
+h111 - 1,0
+h112 - 1,0
+h113 - 1,0
+h114 - 1,0
+h115 - 1,0
+h116 - 1,0
+h117 - 1,0
+h118 - 1,0
+h119 - 1,0
+h120 - 1,0
+h121 - 1,0
+h122 - 1,0
+h123 - 1,0
+h124 - 1,0
+h125 - 1,0
+h126 - 1,0
+h127 - 1,0
+h128 - 1,0
+h129 - 1,0
+h130 - 1,0
+h131 - 1,0
+h132 - 1,0
+h133 - 1,0
+h134 - 1,0
+h135 - 1,0
+h136 - 1,0
+h137 - 1,0
+h138 - 1,0
+h139 - 1,0
+h140 - 1,0
+h141 - 1,0
+h142 - 1,0
+h143 - 1,0
+h144 - 1,0
+h145 - 1,0
+h146 - 1,0
+h147 - 1,0
+h148 - 1,0
+h149 - 1,0
+h150 - 1,0
+h21 - 1,0
+h22 - 1,0
+h23 - 1,0
+h24 - 1,0
+h25 - 1,0
+h26 - 1,0
+h27 - 1,0
+h28 - 1,0
+h29 - 1,0
+h210 - 1,0
+h211 - 1,0
+h212 - 1,0
+h213 - 1,0
+h214 - 1,0
+h215 - 1,0
+h216 - 1,0
+h217 - 1,0
+h218 - 1,0
+h219 - 1,0
+h220 - 1,0
+h221 - 1,0
+h222 - 1,0
+h223 - 1,0
+h224 - 1,0
+h225 - 1,0
+h226 - 1,0
+h227 - 1,0
+h228 - 1,0
+h229 - 1,0
+h230 - 1,0
+h231 - 1,0
+h232 - 1,0
+h233 - 1,0
+h234 - 1,0
+h235 - 1,0
+h236 - 1,0
+h237 - 1,0
+h238 - 1,0
+h239 - 1,0
+h240 - 1,0
+h241 - -0,0
+h242 - 1,0
+h243 - 1,0
+h244 - 1,0
+h245 - 1,0
+h246 - 1,0
+h247 - 0,0
+h248 - 1,0
+h249 - 1,0
+h50 - 1,0
+h31 - 1,0
+h32 - 1,0
+h33 - 1,0
+h34 - 1,0
+h35 - 1,0
+h36 - 1,0
+h37 - 1,0
+h38 - 0,0
+h39 - 1,0
+h310 - 1,0
+h311 - 1,0
+h312 - 1,0
+h313 - 1,0
+h314 - 1,0
+h315 - 0,0
+h316 - 1,0
+h317 - 1,0
+h318 - 1,0
+h319 - 1,0
+h320 - 1,0
+h321 - 1,0
+h322 - 1,0
+h323 - 1,0
+h324 - 1,0
+h325 - 1,0
+h326 - 0,0
+h327 - 1,0
+h328 - 1,0
+h329 - 1,0
+h330 - 1,0
+h331 - 1,0
+h332 - 1,0
+h333 - 1,0
+h334 - 1,0
+h335 - 0,0
+h336 - 1,0
+h337 - 1,0
+h338 - 0,0
+h339 - 1,0
+h340 - 0,0
+h341 - 1,0
+h342 - 1,0
+h343 - 1,0
+h344 - 1,0
+h345 - 0,0
+h346 - 1,0
+h347 - 1,0
+h348 - 0,0
+h349 - 1,0
+h350 - 1,0
+e11 - -0,0
+e12 - -0,0
+e13 - -0,0
+e14 - -0,0
+e15 - -0,0
+e16 - -0,0
+e17 - -0,0
+e18 - -0,0
+e19 - 0,0
+e110 - -0,0
+e111 - -0,0
+e112 - -0,0
+e113 - -0,0
+e114 - 0,0
+e115 - -0,0
+e116 - 0,0
+e117 - -0,0
+e118 - -0,0
+e119 - -0,0
+e120 - 1,0
+e121 - -0,0
+e122 - -0,0
+e123 - -0,0
+e124 - -0,0
+e125 - -0,0
+e126 - -0,0
+e127 - -0,0
+e128 - -0,0
+e129 - -0,0
+e130 - -0,0
+e131 - 0,0
+e132 - 0,0
+e133 - -0,0
+e134 - -0,0
+e135 - -0,0
+e136 - 0,0
+e137 - -0,0
+e138 - -0,0
+e139 - -0,0
+e140 - -0,0
+e141 - 1,0
+e142 - -0,0
+e143 - -0,0
+e144 - -0,0
+e145 - -0,0
+e146 - 0,0
+e147 - 1,0
+e148 - -0,0
+e149 - -0,0
+e150 - -0,0
+e21 - 0,0
 e22 - 0,0
+e23 - 0,0
+e24 - 0,0
+e25 - 0,0
+e26 - 0,0
+e27 - 0,0
+e28 - 1,0
+e29 - 0,0
+e210 - 0,0
+e211 - 0,0
+e212 - 0,0
+e213 - 0,0
+e214 - 0,0
+e215 - 1,0
+e216 - 0,0
+e217 - 0,0
+e218 - 0,0
+e219 - 0,0
+e220 - 0,0
+e221 - 0,0
+e222 - 0,0
+e223 - 0,0
+e224 - 0,0
+e225 - 0,0
+e226 - 1,0
+e227 - 0,0
+e228 - 0,0
+e229 - 0,0
+e230 - 0,0
+e231 - 0,0
+e232 - 0,0
+e233 - 0,0
+e234 - 0,0
+e235 - 1,0
+e236 - 0,0
+e237 - 0,0
+e238 - 1,0
+e239 - 0,0
+e240 - 1,0
+e241 - 0,0
+e242 - 0,0
+e243 - 0,0
+e244 - 0,0
+e245 - 1,0
+e246 - 0,0
+e247 - 0,0
+e248 - 1,0
+e249 - 0,0
+e250 - 0,0
